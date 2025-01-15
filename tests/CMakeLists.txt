@@ -56,12 +56,14 @@ set_target_properties(BlueExposureTest PROPERTIES
     OUTPUT_NAME "_blueexposuretest"
 )
 
-# Copy binary runtime dependencies on DLL platforms
-add_custom_command(TARGET BlueExposureTest POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E copy_if_different
-    $<TARGET_RUNTIME_DLLS:BlueExposureTest>
-    $<TARGET_FILE_DIR:BlueExposureTest>
-)
+if(WIN32)
+    # Copy binary runtime binary dependencies
+    add_custom_command(TARGET BlueExposureTest POST_BUILD
+        COMMAND ${CMAKE_COMMAND} -E copy_if_different
+        $<TARGET_RUNTIME_DLLS:BlueExposureTest>
+        $<TARGET_FILE_DIR:BlueExposureTest>
+    )
+endif()
 
 set(TEST_DESTINATION test/${CCP_PLATFORM}/${CCP_ARCHITECTURE}/${CCP_TOOLSET}/)
 

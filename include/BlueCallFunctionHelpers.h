@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		June 2013
-// Copyright:	CCP 2013
-//
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef BlueCallFunctionHelpers_h

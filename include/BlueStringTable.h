@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #pragma once
 #ifndef BlueStringTable_H
 #define BlueStringTable_H

@@ -1,9 +1,11 @@
+// Copyright Â© 2026 CCP ehf.
+
 /* 
 	*************************************************************************
 
 	BlueUtil.h
 
-	Author:    Kristján Valur Jónsson
+	Author:    Kristjï¿½n Valur Jï¿½nsson
 	Created:   May. 2005
 	OS:        Win32
 	Project:   Blue

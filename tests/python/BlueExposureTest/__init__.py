@@ -1,3 +1,5 @@
+# Copyright © 2026 CCP ehf.
+
 try:
     from _blueexposuretest_debug import *
 except ImportError:

@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 
 #ifndef _BLUEVARIABLE_H_
 #define _BLUEVARIABLE_H_

@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #include "include/BlueExposureMacros.h"
 #include "include/BlueVectorTypes.h"
 

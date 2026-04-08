@@ -1,12 +1,4 @@
-//////////////////////////////////////////////////////////////////////////
-//
-// Creator: Snorri Sturluson
-// Created: July 2010
-// Copyright CCP 2010
-//
-// This file contains the implementation of the Clsid and related
-// classes.
-// 
+// Copyright © 2026 CCP ehf.
 
 #include "include/BlueTypes.h"
 #include "include/BlueStringTable.h"

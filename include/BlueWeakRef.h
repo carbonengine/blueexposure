@@ -1,11 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		January 2013
-// Copyright:	CCP 2013
-//
-// Originally implemented by Kristjan Valur Jonsson, refactored and maintained
-// by Snorri
+// Copyright © 2026 CCP ehf.
 
 // Implements weak references in blue.  The class provides a template class for weak
 // references, as well as declare a class that implements a weak reference site.

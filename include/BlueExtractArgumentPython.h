@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 static const char* const argumentTypeMismatchString = "Could not match argument %i to expected type: %s.";
 
 template< class POINTER_TYPE > POINTER_TYPE BluePythonCast( PyObject* self );

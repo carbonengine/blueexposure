@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #include "Copier.h"
 #include "BluePyWrap.h"
 #include "include/INotify.h"

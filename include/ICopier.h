@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		December 2012
-// Copyright:	CCP 2012
-//
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef ICopier_h

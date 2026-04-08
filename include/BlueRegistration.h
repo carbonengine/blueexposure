@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #pragma once
 #ifndef BLUE_REGISTRATION_H
 #define BLUE_REGISTRATION_H

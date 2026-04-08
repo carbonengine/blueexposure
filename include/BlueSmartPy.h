@@ -1,9 +1,11 @@
+// Copyright Â© 2026 CCP ehf.
+
 /* 
 	*************************************************************************
 
 	BlueSmartVar.h
 
-	Author:    Kristján Valur Jónsson
+	Author:    Kristjï¿½n Valur Jï¿½nsson
 	Created:   Sep. 2003
 	OS:        Win32
 	Project:   Blue

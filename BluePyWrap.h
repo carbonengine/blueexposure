@@ -1,11 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		January 2013
-// Copyright:	CCP 2013
-//
-// Originally written by Matthias Gudmundsson - refactored and maintained
-// by Snorri.
+// Copyright © 2026 CCP ehf.
 
 
 #ifndef _BLUEPYWRAP_H_

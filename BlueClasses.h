@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		November 2011
-// Copyright:	CCP 2011
-//
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef BlueClasses_h

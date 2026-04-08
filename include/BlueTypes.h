@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		January 2013
-// Copyright:	CCP 2013
-//
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef BlueTypes_h

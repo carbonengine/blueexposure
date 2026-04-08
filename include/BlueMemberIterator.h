@@ -1,12 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		October 2012
-// Copyright:	CCP 2012
-//
-// BlueMemberIterator is used to iterate over members of a Blue class.
-//
-// This class used to be known as EntryIterator in Filer.h
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 

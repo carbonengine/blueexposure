@@ -1,11 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		January 2013
-// Copyright:	CCP 2013
-//
-// include this file to pull in the full public interface of BlueExposure. This is
-// ideal for putting in your StdAfx.h file.
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef BlueExposure_h

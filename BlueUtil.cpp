@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #include "include/BlueUtil.h"
 #include "include/IBlueDict.h"
 #include "include/IBlueStructureList.h"

@@ -1,9 +1,5 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Vilhelm Pall Saevarsson
-// Created:		4	2013
-// Copyright:	CCP 2013
-//
+// Copyright © 2026 CCP ehf.
+
 #pragma once
 #ifndef ICustomPersist_h
 #define ICustomPersist_h

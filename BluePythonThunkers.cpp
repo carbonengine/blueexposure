@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #if BLUE_WITH_PYTHON
 
 #include "BluePythonThunkers.h"

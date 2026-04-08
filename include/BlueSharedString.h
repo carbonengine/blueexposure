@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////
-//
-//    Creator:   Filipp Pavlov
-//    Created:   November 2013
-//    Copyright: CCP 2013
-//
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef BluePooledString_H

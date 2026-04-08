@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		August 2010
-// Copyright:	CCP 2010
-//
+// Copyright © 2026 CCP ehf.
 
 #pragma once
 #ifndef IBlueDict_h

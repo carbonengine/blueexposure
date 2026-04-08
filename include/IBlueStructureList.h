@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		8 2012
-// Copyright:	CCP 2012
-//
+// Copyright © 2026 CCP ehf.
 
 #ifndef IBlueStructureList_h
 #define IBlueStructureList_h

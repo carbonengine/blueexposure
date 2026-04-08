@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 #include "BlueVariable.h"
 
 static bool CompareStrings(const char* a, const char* b)

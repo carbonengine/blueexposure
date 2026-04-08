@@ -1,9 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		October 2012
-// Copyright:	CCP 2012
-//
+// Copyright © 2026 CCP ehf.
 
 #include "include/BlueMemberIterator.h"
 #include "include/BlueUtil.h"

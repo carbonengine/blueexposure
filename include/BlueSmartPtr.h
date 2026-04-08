@@ -1,13 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		April 2013
-// Copyright:	CCP 2013
-//
-// Originally developed by Matthias Gudmundsson.
-// Maintained by Snorri Sturluson
-//
-//	Smart pointers - very much like ATL's.
+// Copyright © 2026 CCP ehf.
 
 #ifndef _BLUESMARTPTR_H_
 #define _BLUESMARTPTR_H_

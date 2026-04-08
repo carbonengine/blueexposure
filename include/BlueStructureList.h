@@ -1,20 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-// Creator:		Snorri Sturluson
-// Created:		Aug 2012
-// Copyright:	CCP 2012
-//
-//
-// BlueStructureList is used for persisting and exposing to Python lists of
-// structures, similar to BlueList for storing Blue objects. Note that these
-// have to be plain data structures, composed of floats and ints - there is
-// no support for pointers or std::strings, or things like that.
-//
-// When saving structure lists to black files, the whole list is written in
-// one go, meaning that loading from black file is very efficient - the whole
-// list is read in one go. This again relies on the structures being plain
-// data structures - having virtual functions is absolutely not supported.
-//
+// Copyright © 2026 CCP ehf.
 
 #ifndef BlueStructureList_h
 #define BlueStructureList_h

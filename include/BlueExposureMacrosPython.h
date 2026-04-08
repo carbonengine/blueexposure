@@ -1,3 +1,5 @@
+// Copyright © 2026 CCP ehf.
+
 // Call this macro in a public section of your class declaration, then implement one static method in a cpp file:
 //
 // const Be::ClassInfo* <ClassName>::ExposeToBlue()

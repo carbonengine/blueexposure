@@ -15,7 +15,7 @@ By submitting a pull request or otherwise contributing to this project, you agre
 
 This software is provided by CCP Games and does not include or distribute any third-party libraries or frameworks. 
 
-This software provides Python exposure for C++ code as well as some utilities..
+This software provides Python exposure for C++ code as well as some utilities.
 
 Trademark Notice: CCP Games is a trademark of CCP ehf. 
 

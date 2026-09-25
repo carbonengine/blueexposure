@@ -13,7 +13,7 @@
 #define _BLUESMARTPTR_H_
 
 #include <CcpMacros.h>
-#include <CCPAssert.h>
+#include <CcpAssert.h>
 #include "BlueScriptValue.h"
 
 //Utility functions defined in blueutil.cpp.  Fixed functions like these reduce code.

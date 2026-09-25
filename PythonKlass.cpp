@@ -3,7 +3,7 @@
 #if BLUE_WITH_PYTHON
 #include "include/PythonKlass.h"
 #include "include/BluePythonObject.h"
-#include <CCPLog.h>
+#include <CcpLog.h>
 #include <map>
 
 static CcpLogChannel_t s_ch = CCP_LOG_DEFINE_CHANNEL( "PythonKlass" );

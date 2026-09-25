@@ -15,7 +15,7 @@
 #include "include/IPythonMethods.h"
 #include "include/BlueScriptCallback.h"
 #include "include/BlueSharedString.h"
-#include <CCPLog.h>
+#include <CcpLog.h>
 
 #include "BlueClasses.h"
 #include "BlueVariable.h"

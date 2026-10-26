@@ -689,7 +689,7 @@ struct TypeSignature<unsigned long>
 		return "long";
 	}
 };
-#else
+#elif defined(__APPLE__)
 template <>
 struct TypeSignature<long>
 {

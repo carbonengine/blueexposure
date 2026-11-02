@@ -495,7 +495,7 @@ bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, unsigned long& resu
 
 	return true;
 }
-#elif defined(__APPLE__)
+#elif __APPLE__
 bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, long& result, unsigned int argID, std::false_type isBlueType )
 {
     if( PyLong_Check(argument) )

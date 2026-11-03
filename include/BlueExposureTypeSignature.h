@@ -676,7 +676,7 @@ struct TypeSignature<BluePtr<T>>
 	}
 };
 
-#ifdef _MSC_VER
+#ifdef _WIN32
 template <>
 struct TypeSignature<unsigned long>
 {

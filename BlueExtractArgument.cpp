@@ -477,7 +477,7 @@ bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, size_t& result, uns
 }
 #endif
 
-#ifdef _MSC_VER
+#if _WIN32
 bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, unsigned long& result, unsigned int argID, std::false_type isBlueType )
 {
 	if( PyLong_Check(argument) )

@@ -676,7 +676,7 @@ struct TypeSignature<BluePtr<T>>
 	}
 };
 
-#ifdef _WIN32
+#if _MSC_VER
 template <>
 struct TypeSignature<unsigned long>
 {
@@ -689,7 +689,7 @@ struct TypeSignature<unsigned long>
 		return "long";
 	}
 };
-#elif __APPLE__
+#elif __clang__ && __apple_build_version__
 template <>
 struct TypeSignature<long>
 {

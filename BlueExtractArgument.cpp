@@ -477,7 +477,7 @@ bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, size_t& result, uns
 }
 #endif
 
-#if _WIN32
+#if _MSC_VER
 bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, unsigned long& result, unsigned int argID, std::false_type isBlueType )
 {
 	if( PyLong_Check(argument) )
@@ -495,7 +495,7 @@ bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, unsigned long& resu
 
 	return true;
 }
-#elif __APPLE__
+#elif __clang__ && __apple_build_version__
 bool BLUEIMPORT BlueExtractArgumentImpl( PyObject* argument, long& result, unsigned int argID, std::false_type isBlueType )
 {
     if( PyLong_Check(argument) )
